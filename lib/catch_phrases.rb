@@ -5,6 +5,4 @@ end
 
 def toadstool
   puts status
-  p phrase = "It's-a me, Mario!"
 end
-phrase = "It's-a me, Mario!"
